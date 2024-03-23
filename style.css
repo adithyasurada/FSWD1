@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+html {
+    background-color:#e6e6e6;
+}
+label{
+    display:inline-block;
+    width:70px;
+    margin-right:20px;
+    text-align:right;
+}
+a {
+    color: blue;
+}
+
+
+
+    
